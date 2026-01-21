@@ -1,4 +1,4 @@
-# Text Compressor and Decompressor
+# Huffman Compressor
 
 A text file compression tool using Huffman coding algorithm, built with C++.
 

@@ -49,4 +49,4 @@ g++ decompress.cpp -o decompress
 
 ---
 
-Data Structures and Algorithms group project by **tidgeeyyy** and team
+Data Structures and Algorithms group project by **tjyalmorin** and team
